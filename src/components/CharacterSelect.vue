@@ -2,7 +2,7 @@
     <div class="container">
         <img v-for="character in characters" 
             :key="character.slug" 
-            :src="`/assets/img/${character.slug}Icon.png`"
+            :src="`/img/${character.slug}Icon.png`"
             v-bind:class="{active: isActive(character.slug)}"
             v-on:click="selected = character.slug"
         />

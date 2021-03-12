@@ -3,7 +3,7 @@
   <section class="hero-main hero is-large is-info is-video">
     <div class="hero-video">
       <video playsinline autoplay muted loop>
-        <source src="./assets/video/background.mp4" type="video/mp4">
+        <source src="/video/background.mp4" type="video/mp4">
       </video>
     </div>
     <div class="hero body">
@@ -91,8 +91,9 @@ export default{
     CharacterSelect,
     Footer
   },
-  data: function (){ 
+  data (){ 
     return{
+      publicPath: process.env.BASE_URL,
       characters:[
         {slug: "sonic", name:"Sonic", blurb:"Sonic is just what you’d expect from our favorite blue hero! Pretty fast and agile! He’s got some good speed, and can control his drifts pretty well, just make sure you get the drift boosts because otherwise you’ll fall behind!"},
         {slug: "tails", name:"Tails", blurb:"Our cute fox boy Tails! Tails has slow speed, but can really get going quickly, he can also take incredibly tight turns all the time, get close to those corners for him to really slip past people!"},
