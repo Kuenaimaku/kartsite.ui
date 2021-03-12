@@ -6,7 +6,7 @@
         </div>
         <div class="column">
             <figure>
-                <img :src="`/img/${slug}Preview.gif`"/>
+                <img rel=preload :src="`/img/${slug}Preview.gif`"/>
             </figure>
         </div>
     </div>
