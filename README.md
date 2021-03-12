@@ -2,4 +2,4 @@
 
 # kartsite.ui
 
-## I decided to take a forum post and make a landing site out of it.
+I decided to take a forum post and make a landing site out of it.
