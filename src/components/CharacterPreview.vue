@@ -37,6 +37,7 @@ p {
 }
 
 img{
+    min-height:300px;
     max-height:300px;
 }
 </style>
