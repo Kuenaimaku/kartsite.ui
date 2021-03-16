@@ -24,7 +24,7 @@ defineProps({
 
 <style scoped>
 h2.title {
-    font-size:3rem;
+    font-size:3rem !important;
     font-weight:800;
     font-family: 'VT323', monospace;
     text-transform: uppercase;
@@ -32,7 +32,7 @@ h2.title {
 }
 
 p {
-    font-size: 1.5rem;
+    font-size: 1.25rem;
     line-height: 2rem;
 }
 

@@ -24,22 +24,22 @@
   <section class="section about">
     <div class="container has-text-centered">
       <h2 class="title">Features</h2>
-      <div class="columns">
+      <div class="columns is-variable is-9">
         <div class="column is-one-third">
           <span class="icon has-text-success">
-            <i class="mdi mdi-96px mdi-map"></i>
+            <i class="mdi mdi-128px mdi-map"></i>
           </span>
           <p>We have 100 jam-packed maps for you to bump, explode, and sparkle your way through, from luscious beaches, to Eggman’s dance floor, to England on a good day. All lovingly crafted by many different people.</p>
         </div>
         <div class="column is-one-third">
           <span class="icon has-text-warning">
-            <i class="mdi mdi-96px mdi-star-circle-outline"></i>
+            <i class="mdi mdi-128px mdi-star-circle-outline"></i>
           </span>
           <p>You’ll notice almost every aspect of the game has an immense love and inspiration from the classic sonic games. From the items such as Ballhog, which literally throws bouncey explodey balls at people, to the maps which are bursting with that Sonic feel.</p>
         </div>
         <div class="column">
           <span class="icon has-text-danger">
-            <i class="mdi mdi-96px mdi-robot-angry"></i>
+            <i class="mdi mdi-128px mdi-robot-angry"></i>
           </span>
           <p>Of course, you'll only start off with a few cups available, but you can unlock more by playing offline/online matches. Alternatively, you can immediately jump into challenging yourself and race us personally in Staff Attack mode! Don't worry, we'll go easy on you.</p>
         </div>
@@ -59,7 +59,7 @@
         <div class="column is-half">
           <div class="box has-text-centered">
             <span class="icon has-text-info">
-              <i class="mdi mdi-96px mdi-flag-checkered"></i>
+              <i class="mdi mdi-flag mdi-flag-checkered"></i>
             </span>
             <h3 class="title">Race</h3>
             <p class="subtitle">Race through the track to beat your opponents, use your items and skill to swooce past the competition, Oh my God what is that following behind me HELP! You know, the usual.</p>
@@ -68,7 +68,7 @@
         <div class="column">
           <div class="box has-text-centered">
             <span class="icon has-text-danger">
-              <i class="mdi mdi-96px mdi-sword-cross"></i>
+              <i class="mdi mdi-128px mdi-sword-cross"></i>
             </span>
             <h3 class="title">Battle</h3>
             <p class="subtitle">Battle mode asks you to violently throw spikeballs at your friends until they have no bumpers and you have some. But watch out, they can come back with a vengeance and chase you to the ends of the earth afterwards!</p>
@@ -119,6 +119,14 @@ export default{
   -moz-osx-font-smoothing: grayscale;
 }
 
+.columns.is-variable.is-9 {
+    --columnGap: 3rem;
+}
+
+.icon {
+      margin: 2rem 0rem 4rem;
+}
+
 .navbar-brand span{
   font-size:1.5em;
   font-weight:800;
@@ -155,6 +163,11 @@ section.about, section.modes, section.characters{
   padding:2rem;
 }
 
+section.about p, section.modes p{
+  font-size: 1.25rem;
+  line-height: 2rem;
+}
+
 
 section.characters{
   background-color:#39f;
@@ -176,15 +189,18 @@ section.about h2.title{
 }
 
 section.modes h3.title{
-  font-family: 'VT323', monospace;
-  font-size:3rem;
+  font-size:2rem;
 }
 
-.mdi-96px.mdi-set, .mdi-96px.mdi:before {
-    font-size: 96px;
+.mdi-128px.mdi-set, .mdi-128px.mdi:before {
+    font-size: 128px;
+}
+
+.mdi-flag.mdi-set, .mdi-flag.mdi:before {
+    font-size: 164px;
 }
 
 section.modes .box{
-  min-height:253px;
+  min-height:342px;
 }
 </style>
