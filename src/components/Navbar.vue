@@ -1,5 +1,5 @@
 <template>
-    <nav class="navbar is-info">
+    <nav class="navbar is-primary">
     <div class="navbar-brand">
       <a class="navbar-item" href="https://mb.srb2.org/threads/srb2kart.25868/">
         <img src="./../assets/logo.png" alt="SRB2Kart Logo" width="28" height="50">
@@ -11,6 +11,12 @@
         <span aria-hidden="true"></span>
         <span aria-hidden="true"></span>
       </a>
+    </div>
+    <div id="navbarBasicExample" class="navbar-menu">
+      <div class="navbar-start">
+        <router-link :to="{ name: 'Home' }" class="navbar-item">Home</router-link>
+        <router-link :to="{ name: 'About' }" class="navbar-item">How To Play</router-link>
+      </div>
     </div>
   </nav>
 </template>

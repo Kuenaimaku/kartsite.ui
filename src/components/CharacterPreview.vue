@@ -28,7 +28,6 @@ h2.title {
     font-weight:800;
     font-family: 'VT323', monospace;
     text-transform: uppercase;
-    color:#363636 !important;
 }
 
 p {
