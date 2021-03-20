@@ -14,8 +14,8 @@
     </div>
     <div id="navbarBasicExample" class="navbar-menu">
       <div class="navbar-start">
-        <router-link :to="{ name: 'Home' }" class="navbar-item">Home</router-link>
-        <router-link :to="{ name: 'About' }" class="navbar-item">How To Play</router-link>
+        <router-link to="/" class="navbar-item">Home</router-link>
+        <router-link to="/manual" class="navbar-item">How To Play</router-link>
       </div>
     </div>
   </nav>

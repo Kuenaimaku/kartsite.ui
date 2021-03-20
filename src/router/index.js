@@ -1,6 +1,6 @@
 import { createWebHistory, createRouter } from "vue-router";
 import Home from "./../views/Home.vue";
-import About from "./../views/About.vue";
+import About from "./../views/Manual.vue";
 
 const routes = [
   {
@@ -9,15 +9,25 @@ const routes = [
     component: Home,
   },
   {
-    path: "/about",
-    name: "About",
+    path: "/manual",
+    name: "Manual",
     component: About,
   },
 ];
 
+
+
 const router = createRouter({
   history: createWebHistory(),
   routes,
+  scrollBehavior(to, from, savedPosition) {
+    if (to.hash) {
+      return {
+        el: to.hash,
+        behavior: 'smooth',
+      }
+    }
+  },
 });
 
 export default router;
