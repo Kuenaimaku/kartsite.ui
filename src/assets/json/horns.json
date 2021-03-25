@@ -1,0 +1,3134 @@
+[
+	{
+		"name": "WHAT? - some dude who gets mad at ramps",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It is Wednesday my dudes - Jimmy Here",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It's over, Anakin! I have the high ground! - Star Wars Episode 3",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bummer - Chip's Challenge",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Nigerian Lady Screaming - Pretty Liars 1",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Why are you running? - Pretty Liars 1",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "No! God! Please no! - The Office",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "No! NOOOOOOOOOOOOO! - The Office",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Don't watch an anime called Boku",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yoooo 1 - Don't watch an anime called Boku",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yoooo 2 - Don't watch an anime called Boku",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yoooo 3 - Don't watch an anime called Boku",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yoooo 4 - Don't watch an anime called Boku",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It's time for big team battle - Halo Reach (videogamedunkey)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "SimpleFlips's dick gets set on fire - SimpleFlips",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Happy Feet! Wombo Combo! - Super Smash Bros. Melee",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "That ain't Falco! - Super Smash Bros. Melee",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OH! OHH! OHHHHHHHHHHHH! - Super Smash Bros. Melee",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WHERE YOU AT?! - Super Smash Bros. Melee",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WOMBO COMBO!!! - Super Smash Bros. Melee",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Get your ass whooped! - Super Smash Bros. Melee",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Suck my balls... two times! - Pineapple Express",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OHH SHIT! - Tourettes Guy",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OH MY GOD! - JoJo's Bizarre Adventure (Stardust Crusader)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Dio Brando 'WRYYYYYYYYYYYYYY' - JoJo's Bizarre Adventure (Stardust Crusader)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Grand Dad - Vinesauce Joel",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "FLEENSTONES?! - Vinesauce Joel",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Snake's Death Scream - Metal Gear Solid",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Snake Screaming Liquid - Metal Gear Solid 4",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Liquid saying 'Brother!' - Metal Gear Solid 4",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Don't fuck with me! I have the power of God and anime on my side!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Uh oh - videogamedunkey",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mada mada - Overwatch",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Be gone THOT!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "If she breathes, she's a THOOOOT!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Beaver Scream 1",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Beaver Scream 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "No no no no - Look at this dude",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Funny laughter - Look at this dude",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Go suck a dick and a banana cause that is all you are - Yu-Gi-No",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mentally Untouchable - LowTierGod",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Get that ass banned! - LowTierGod",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Sounds like Maverick talk to me - Megaman Maverick Hunter X",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I never learned how to read! - Super Smash Bros. Ultimate (Pit)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WHO POSTED MY NUDES ON TWITTER DOT COM?!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Super Mario on the PS4",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Super Luigi on the Xbox One",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hah!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "GOTTEEM",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "C-C-C-C-C-COMBO BREAKER!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "ULTRA COMBOOOOOOO!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "That's my purse! I don't know you! - King of the Hill",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Nanomachines, son! - Metal Gear Rising: Revengeance",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm fucking invincible! - Metal Gear Rising: Revengeance",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Fuck you, asshole! - Metal Gear Rising: Revengeance",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm gay - iDubbbz",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oh these are pretty cool bananas",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oh these are pretty cool bananas (Screaming)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Do it again - King of Skill",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Uhh... meow? - Sonic the Hedgehog Movie",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "No no no no no NOOOOO! - Family Guy",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Loud slap",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Whiplash",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Stop it. Get some help.",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Destroyed! - Guilty Gear X2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Wack - The Eric Andre Show",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Let me in, LET ME IIIIIIIINNN! - The Eric Andre Show",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm tight as fuck!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Nelson's laugh - The Simpsons",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "All we had to do was follow the damn train, CJ! - Grand Theft Auto San Andreas",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Surprise, motherfucker - Dexter",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Take it like a man, shorty. - Team Fortress 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "No copyright law in the universe is going to stop me! - Sonic Colors",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Thank you! - Metal Slug",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Heavy Machine Gun - Metal Slug",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You bastard! - South Park",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Why are we still here? Just to suffer?",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "They played us like a damn fiddle!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Where's the lamb sauce! - Hell's Kitchen",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Omae wa mou shindeiru - Fist of the North Star",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Nani?! - Fist of the North Star",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Fox McCloud screaming - Star Fox 64",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gotcha, bitch!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Sonic the Werehog's fall scream - Sonic Unleashed",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Find the computer room! - Shadow the Hedgehog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oof! - Minecraft",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OHHH MY! OHHH MY! OH MY FUCKING GOD! - EtikaWorldNetwork (R.I.P.)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Kojima is God!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hoes mad!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "What can I say except you're welcome - Moana",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Looking cool, Joker! - Persona 5",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Loud Nigra Screaming 1",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Loud Nigra Screaming 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Loud Nigra Screaming 3",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ooooooohhhhh - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I will always love you - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Stranger Danger - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Best Game - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "STOP! - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WHAT...WHAT THE FUCK?! - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "No no no no no no no no - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "JonTron's majestic scream - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "SMAAAAASH - Earthbound",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "The Giant Enemy Spider - Jerm985",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Monkey Gun!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yee boi",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oh Sweet Satisfaction! - Super Smash Bros. Ultimate",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Congratulations! You won!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OOOOOOOOOOHHHHHHHH",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hiyah! - Super Smash Bros. Melee",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Tom screaming - Tom and Jerry",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You got boost power! - F-Zero GX",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hyper Combo Finish - Marvel vs Capcom",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Jonnil",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Something buggin' you? - Sonic Adventure",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "DIIIEEEE",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Allow me to demonstrate the extent of my strength!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "FUCK!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Profound Sadness",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Everything is coming together like buttcheeks",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shut up! - Smosh",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Super Mario Rapper",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Super Sonic Rapper",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hello Mario",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "What a thrill - Metal Gear Solid 3: Snake Eater",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Anime wow sound",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Is that Foximilian?! - sum64",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Guys look it's Foximilian! - sum64",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Look at all those Eggman's robots - Sonic Heroes",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Now Comes the Part Where We Throw Our Heads Back and Laugh",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oh no! - Sonic Adventure",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pissed Shambler",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Jump sound - Quake",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hah! Got em! - Filthy Frank",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "HE - Donkey Kong 64 Rap",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm fucking Invincible - Donkey Kong 64 Rap",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm runnin' circle around ya!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pizza Time - Spider Man 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Banana Slamma! - Donkey Kong Country (TV Series)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Run it back - Lythero",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I don't want to be here anymore! - Lythero",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ohhh Banana - Donkey Kong 64",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You...CLOD! - Steven Universe",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Right? Ha ha... WRONG! - Spongebob Squarepants",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Sit your five dollar ass down before I make change - New Jack City",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'll whoop your ass, your girlfriend looks like my mom",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Fuck this shit I'm out",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Jonah Jameson's Laugh",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shrek's Roar - raysipeladygaga",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Damn! Not here! - Shadow the Hedgehog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pog Fish Noise 1",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pog Fish Noise 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pog Fish Noise 3",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gimme 20 dollars - Slender Edition",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "AHH - World of Warcraft",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gentleman? Who you calling gentleman? - Sonic and the Black Knight",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "When A Non American Has An Inferior Opinion",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ohhh SHIIIT",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Okie Dokie! - SMG4",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I just shit my pants! - SMG4",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Cock and Ball Torture",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "BDSM",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm Phil Swift here for Flex Tape! - Flex Tape",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I sawed this boat in half! - Flex Tape",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "YEEAAAH DOGGY! - Flex Tape",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm going to Jail!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Consequences will never be the same",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bonk",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Nooo",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gimme a hug man",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bitches, sup bitches - Chad Warden",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hey! - Lego City",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It just works - Todd Howard",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Where's my money - Family Guy",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Thanos Beatbox",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "My leg! - Spongebob Squarepants",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Japanese Man Wins Game Show",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Delin's Grunt",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Rock and Roll McDonald's",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bring me that ass!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "That kid needs help - The Jotaros Go To Disney World",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ruby's Embarrassing Noise - Love Live",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I oughta break a broomhandle off in your ass - Duke Nukem",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm not gonna fight you, I'm gonna kick your ass! - Duke Nukem",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gurando Daddo",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Do the Mario! - Super Mario Bros. Super Show",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Balwisyall Nescel Gungnir TrooooooAAAAAAAA - Symphogear G",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Two kids gonna die tonight! - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Come to Brazil, you motherfucker - Duke Nukem",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mario says shit",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "TyroneSama gets owned",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gay Luigi - Hotel Mario",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "My Muscles Involuntarily Flex",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It keeps happening",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I told you about stairs - Hella Tails",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I AM OUT OF CONTROL THE ULTIMATE E",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "EA Sports BIG",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pit screams like Gumball and shit - Pit",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Boy you gotta suck my motherfucking dick",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Fox's Star KO Scream - Super Smash Bros. for 3DS/Wii U",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "What the hell is this? - Devil May Cry 4",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "IT'S MAHVEL BAYBEE",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oh he's so pringles where's your curly mustache at?!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Curly Mustache!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Fuck the Knicks!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "2.5D",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eurobruh",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WHO WANTS CHICKEN NUGGETS? - Lupin III",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm making fuckin' mac and cheese and nobody can stop me",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Kitchen Sink - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Lol Pokemon Joke - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I heard being loud is funny - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "War-Dong - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bro this is my fetish - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Garbage Day - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shoe Shopping - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Panic my pizza, Daddy Foxi - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You son of a bitch! - War-Dog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Balls of Steel - War-Dog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Manly Scream - War-Dog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "My Tims B - War-Dog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Our Js - War-Dog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "EAT THIS! - War-Dog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Stop posting cringe - War-Dog and Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Challenge Pissing - Big Bill's Hell",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hurry up, Asshole! - Big Bill's Hell",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "ITSA ME WAAHOO",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pit saying weird shit - Pit",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Nani Sore?!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Goemon is in the house - Lupin III",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Miller Time - Lupin III",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Kirby fucking dies",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Wario Land on the PC",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Waluigi on Google Stadia",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oh brother this guy STINKS!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I took this chicken wire - Flex Paste",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Wave of my finger and a flick of my dick",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Car crash",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hey guys it's me! Videogamedunkey!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Fucking GAAAAY",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You fools! You've messed with the natural order!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm taking everything from you. Give me your phone",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Sr Pelo Crying",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You cannot escape your own death",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Reppuken!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Geese Howard's Scream",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Watch out! You're gonna crash! Ahh! - Sonic Adventure",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Where am I? - Sonic Adventure",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shut up, Tails! - Sonic the Hedgehog OVA",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Resses Puffs Rap",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Wario saying oh my god",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Super Mario in real life",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Spaghetti!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Cocky little freaks! - Star Fox 64",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "pls play dmc2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "BAP",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ha ha, ha ONE!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Spell Ultima - Final Fantasy VII",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Aw shit, here comes Pac-Man",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Will Ferrell says Big Chungus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hamburger cheeseburger big mac whopper",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ah shi soft and loud",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "BOO YOU STINK!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WOO! FEELING GOOD! - Sonic Unleashed",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hamburger",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OW!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You fell for the oldest trick in the book",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Super Mario 64 Sound Effect - Oof!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Goemon's Words of Wisdom - Lupin III",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yeah baby! You can do it!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "HEAUGH",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Foxy - Your a Sans",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Aran-Ryan fucking screams",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hello~",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It's my enemy stand - Sonic Riders Fan-Dub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "ARE YOU CRAZY?! WHAT ARE WE GONNA DO?! - Sonic X",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pee Pee Doo Doo Ka Ka, he did it folks, he killed the Samus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You know what they say? Your mom gay - Chronic Farces",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OH HELL NAAaaaAAAaaAAAAAAH",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Captain Falcon on the Nintendo Switch",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "HEY HEY COME ON OVER HAVE SOME FUN WITH CRAZY TAXI!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "SPEEN",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eggman saying Gottem - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gluuuuuue",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "GTA Guitar Bro",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Joker on the Microsoft Xbox",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "How's that for road rash? - Devil May Cry 5",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "THREE YEARS! I'VE BEEN IN HERE FOR THREE YEARS!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eggman saying What the fuck?! - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Is that Shadow's dick?! - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bonk! - Team Fortress 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eggman HHHHYHHUGUHUHHUGGGG - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "What are you two fucking talking about? - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm going to piss my own ass - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eggman coughing - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eggman's Bones - Sonic Adventure 2 Real-Time Fandub",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Smoking nic and sucking d***",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm very hungry",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I don't want that",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Sonic saying poggers",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WORK THAT SUCKER TO DEATH!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Costco guac",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It's fucking dank",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Smeeeh kuuuh",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Thank you so much for to playing my game - Super Mario 64",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Why is that Shrek so black?! - Lythero",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You know what they say, the more the merrier! - Shadow the Hedgehog",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shadow gunshot",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "YEEEEEEAAAAAAAAHHHHHH!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "IT'S SHOWTIIIIIIIIIIIIIIIME!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Knuckles saying meme - Sonic Boom",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yankee with no brim",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Monkey! - Super Mario Bros. Movie",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It is what it is",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Consume this delicious banana - Sonic X",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "HATSUNE MIKU IS THAT YOU?! - Sonic Riders Real-Time Fandub Games",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yaaaay - Shirakami Fubuki",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Call me daddy!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Buckle up spanky!!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "The bass is fucking raw! - Hell's Kitchen",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm a burger fox! - Shirakami Fubuki",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "An idiot sandwich - Hell's Kitchen",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mundial Ronaldinho Soccer 64 intro theme",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "THAT'S SONIC! - JonTron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "CHICKEN STRIIIIPS!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "HELLO EVERYBODY! My name is Sonic! Sonic the Hedgehog!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "SLIPPY NO! - Star Fox 64 Parody",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ligma? What's Ligma? - Star Fox 64 Parody",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ligma balls HAHAHAHA - Star Fox 64 Parody",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "He's not gonna get away with this!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "No way! I can't believe this!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Get a load of this!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Can we get a poggers in chat?",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Peko!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "How you hatin' from outside the club?! - The Keef Crew",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "SSSEX!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mango Nation, Fox McCloud - The Keef Crew",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Do the roar - Shrek Forever After",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I love you daddy - Shrek Forever After",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Banjo talking - Banjo & Kazooie",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Kazooie talking - Banjo & Kazooie",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gruntilda talking - Banjo & Kazooie",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mumbo Jumbo talking - Banjo & Kazooie",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Aku aku OOGA BOOGA - Crash Bandicoot",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Are we at a local? - The Keef Crew",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gavin going super saiyan - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Don't fuck with Sonic fans",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Uunf",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Finally...a dick of my own",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Slippy screaming no after asking Falco what's ligma - Star Fox 64 Parody",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I know I tried",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You have to get really deep",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Look, guys, look! It's one of my greatest achievement!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Look, guys, look! The Virtual Boy! Ultimate classic system!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Guys, do you remember Wario Land? Incredible, incredible!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Megumin screaming",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Amborgesa (Hamburger but in spanish)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shark torpedaru!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Baby Luigi saying hey Mario and then cries",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Can of Whoop-ass",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "SHIIIIEEEEEEEET - Pit",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OHHHH MY GOOOOOOOOOOOD - Pit",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I.M. Meen hates Halloween",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gotcha, ya pot-bellied lardass! - Team Fortress 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I don't need friends. They disappoint me.",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Protect the room and keep Mr. Bear safe",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "The Bit Wars - Angry Video Game Nerd",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hands off my CAWK!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Star Platinum screaming",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "High pitched dude having a mental breakdown",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yes I am! - JoJo's Bizarre Adventure",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Wario saying GO!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm the coolest",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It's a Magnavox - Batman Beyond Ill",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hey you green looking Louis Anderson motherfucka - Batman Beyond Ill",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Three for fifteen - Batman Beyond Ill",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I will rain Hell fire upon you! - Jontron",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Woody's laugh - Toy Story",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You found a secret! - Hydro Thunder",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You know the rules, and so do I... Say goodbyeee!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You're crazy! - Hydro Thunder",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I HAVE THE POWER OF GOD!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "They've been laughing since I can remember! - Goofy Movie",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Only wall you should be worried about is the one in Mexico!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "SUBARUUU - Wakliwood Ghetto Rally",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hoy Shin Megami Tensei fans! - Voiceoverpete",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "And remember, one more god rejected! - Voiceoverpete",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Am I buggin?",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "BARACK OBAMAAAAAAA!!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "The Varus TM - Tales from the Varus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Breath somewhere else - Tales from the Varus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Critical demand of tolietries - Tales from the Varus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Even the Boomers could use it - Tales from the Varus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Feel the Gs! - Tales from the Varus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shut up and panic - Tales from the Varus",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Really? An Air BnB's wifi? - Internet Historian",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Revolution? - Twomad",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Robert, take that off your screen - Twomad",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Robert, how could you? - Twomad",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I certainly hope you have a fishin' license - Soggynugget",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Grooovy! - Earthworm Jim",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Building Placement",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "DISAPPOINTEEEED!!! - Hercules",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Son, always remember, dying is gay - STBlackST",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Wanted to hear the sound of a rubber ball breaking a window? - Lazy Town",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I don't want any damn vegetables - The Simpsons",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm not a rapper - Supahotfiyah",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "That's the wrong number!! - Supahotfiyah",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Okay but why tho - Cell Games,TFS",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Get the FUCK out of my yard!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "X gon' give it to ya",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Can't have shit in this house!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You mean the chao emeralds? - Genowhirl",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'm assuming you mean the chaos emeralds - Genowhirl",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "CHAOS CONTROL!! - Genowhirl",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Get that motherfucker - Team Fabulous 2",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Twomad falls and dies - Twomad",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "APPROACHING SOUND BARRIER!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Kazuma Kiryu Klap",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Only small percent of people that watched my videos are actually subscribed",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Swedish Robotnik Scream",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Vinesauce Joel (Shareware Madness)",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Wow! Epic fail!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I replaced your DND with fruit by the foot",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bababooey",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Morgana needs your help",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Gonna make you die, say goodbye",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Houshou Marine - Ahoy!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Johnny going super saiyan - SomecallmeJohnny",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Morshu's greatest achievement",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ed Edd n' Eddy - The Horn",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "It's Goku in the building",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hey pal, did you just blow in from stupid town? - SpongeBob Squarepants",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Because they're fucking chicken nuggets!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eekum Bokum 1 - 2ManySnacks",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eekum Bokum 2 - 2Many Snacks",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eekum Bokum 3 - 2Many Snacks",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hey, G, would you make me a sandwich?",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Chuck E. Cheese says poggers",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Pokemon Low HP sound",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Nothing Bad Ever Happens to the Kennedys! - Clone High",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "My hat is on fire! HelP! - Sonic the Hedgehog OVA",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Go to the kitchen...bitch!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Crunchy munchy delightful devine, I just love eating shit all the time",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I'll do the work, and you take the dick in the butt",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "OH GOOD LORD IT'S EVERYWHERE!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Horny detected! Destroy horny!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yoda Penetration",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You playing minecraft? I like ya cut, G",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Call an ambulance, but not for me!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Great! Awesome! Outstanding!",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "2319! We have a 2319! - Monsters Inc",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I can't...STOP IIIIIT! - Star Fox 64",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "MMMMMM - Link: The Faces of Evil",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ugh, fine, I guess you are my little pogchamp but it's TF2 soldier",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ugh, fine, I guess you are my little pogchamp",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mike Wazowski's scream",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "You Fool!! - Dragon Ball Z",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bunch of Kermits saying thank you",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Look, you're a simp. I'm gonna have to report you back to Kuzco",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "This kid is definitely on crack",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "JonTron - You fuckers",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hello, Mario",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Sonic says 'That's a pretty nice cock, bro'",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Circus afro but it's megalovania",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Master Chief's opinion on pineapple pizza",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Te quiero",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "MINE! MINE! MINE! MINE! - Finding Nemo",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "WHO ORDERED ALL THESE FUCKING ANIME TID-",
+		"pack": "DestinationHorns",
+		"hellhorn": false, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "This dude's doing strings! - LowTierGod",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Oh my GOD! WOW! - LowTierGod",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "This motherfucker is garbage! - LowTierGod",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Tyler1 Screaming 1",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Tyler1 Screaming 2",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Tyler1 Screaming 3",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Tyler1 Screaming 4",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Tyler1 Screaming 5",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Tyler1 Screaming 6",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Thank God for volume control - Vespa",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Big Bill Hell's",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Eggman's Announcement but in the form of a song",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Penis Music",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "MA'AM! NO! STOP! THOSE ARE HIS NIPPLES!",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "STOP SENDING ME HENTAI",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Transformer Autotune",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Matt Screaming - Game Grumps",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Dorime but a man has fallen into the river in lego city",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Keemstar Screaming",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "My name is Harry the hamster",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Big Chungus",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Penis penis cock cock",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mr. Blue Sky Earrape",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "MMMAAAAAAAAAAAAAAAAAAAaAAAAAAAAAAaAAAAA",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "THX Sound Effect (Self-Propelled Bomb)",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Warioland on the PC (Yes extended)",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Disturbing torture .-.",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Objects that I have shoved up my arse",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Mr. Krabs, please don't turn me into a marketable plushies",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "German SpongeBob",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "A GIRL?!",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I sound like a 14 year old but my boobs are huge",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Greg, stop masturbating to anime girls",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Salty kid raging",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Yummy yummy hamubaga! - Shirakami Fubuki",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Perverted Slurp",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Get me some skittles",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "dead",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "I tried but with dance music",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Joe Swanson Earrape",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Annoying ass sound...",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Ahoy, Spongebob, I require immediate cock and ball torture",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Creator of SEX",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Earrape Godzilla",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hey there, Nicky! It's time to fricky with my dicky!",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Here comes Pac-Man but with earrape",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Hey Andy Sweetie (Warning: Earrape)",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "ADMIN ABUSE!",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Togue has broken the Jartcast - Jartcast ep.11",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Bakamati - Gamer Girl Bathwater",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Sans for Nintendo DS",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Shadow the hedgehog for the PSP",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	},
+	{
+		"name": "Toad on Steam",
+		"pack": "DestinationHorns",
+		"hellhorn": true, 
+		"command" : "sethorn 0000"
+	}
+]
